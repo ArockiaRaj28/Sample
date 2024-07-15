@@ -1,2 +1,4 @@
 Sample
 I have added new line on the remote repository
+I have added new line on the Local repository
+
